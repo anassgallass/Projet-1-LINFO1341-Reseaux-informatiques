@@ -12,8 +12,6 @@ Ce répertoire contient les codes utilisés pour réaliser un projet d'analyse d
 
 ---
 
-Dans ce répertoire se trouvent les codes utilisés dans la réalisation du projet consistant en une analyse d'une application réseau intégrant des fonctionnalités de conversation et de visioconférence. L'application choisie est WhatsApp.
-
 Le rapport est divisé en 5 parties : 
 
 1. DNS ;
