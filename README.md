@@ -1,7 +1,7 @@
 # Projet-1-LINFO1341-Reseaux-informatiques
 ---
 
-Ce répertoire contient les codes utilisés pour réaliser un projet d'analyse d'une application réseau incluant des fonctionnalités de conversation et de visioconférence, en utilisant WhatsApp comme étude de cas. Ce projet a été réalisé dans le cadre du cours LINFO1341-Reseaux-informatiques, encadré par le Professeur Olivier BONAVENT8RE, au Q2 2022-2023.
+Ce répertoire contient les codes utilisés pour réaliser un projet d'analyse d'une application réseau incluant des fonctionnalités de conversation et de visioconférence, en utilisant WhatsApp comme étude de cas. Ce projet a été réalisé dans le cadre du cours LINFO1341-Reseaux-informatiques, encadré par le Professeur Olivier BONAVENTURE, au Q2 2022-2023.
 
 ---
 
