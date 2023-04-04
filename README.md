@@ -18,10 +18,10 @@ Dans ce répertoire se trouvent les codes utilisés dans la réalisation du proj
 
 Le rapport est divisé en 5 parties : 
 
-- DNS ;
-- Couche réseau ;
-- Couche transport ;
-- Chiffrement et sécurité;
-- Application.
+1. DNS ;
+2. Couche réseau ;
+3. Couche transport ;
+4. Chiffrement et sécurité; 
+5. Application.
 
 Pour chacune de ces parties, un dossier est crée contenant à chaque fois les scripts utilsés pour la réalisation du rapport d’analyse.
