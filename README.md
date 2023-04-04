@@ -24,4 +24,6 @@ Le rapport est divisé en 5 parties :
 4. Chiffrement et sécurité; 
 5. Application.
 
-Pour chacune de ces parties, un dossier est crée contenant à chaque fois les scripts utilsés pour la réalisation du rapport d’analyse.
+Pour chacune de ces parties, un dossier est crée contenant à chaque fois les scripts utilsés pour la rédaction du rapport d’analyse.
+
+Pour utiliser ces scripts, on a exporté des fichiers .pcap capturé sur Wireshark lors de l'utilisation de Whatsapp sur ordinateur.
