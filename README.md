@@ -24,5 +24,5 @@ Pour chacune de ces parties, un dossier contenant les scripts utilisés pour la 
 
 Les scripts ont été créés en exportant des fichiers .pcap capturés sur Wireshark lors de l'utilisation de WhatsApp sur ordinateur.
 
-Pour utiliser ces scripts, téléchargez le dossier correspondant à la partie d'intérêtn insérer les fichiers .pcap et exécutez depuis le terminal.
+Pour utiliser ces scripts, téléchargez le dossier correspondant à la partie d'intérêt, insérer les fichiers .pcap nécessaires à l'analyse.
 
