@@ -7,8 +7,8 @@ Ce répertoire contient les codes utilisés pour réaliser un projet d'analyse d
 
 **Auteurs :**
 
-- Victor JONNIAUX (Étudiant | 58411900 | Ecole Polytechnique de Louvain (EPL) | [victor.jonniaux@student.uclouvain.be](mailto:victor.jonniaux@student.uclouvain.be))
-- Anass GALLASS (Étudiant | 02652201 | Ecole Polytechnique de Louvain (EPL) | [anass.gallass@student.uclouvain.be](mailto:anass.gallass@student.uclouvain.be))
+- Victor JONNIAUX (Étudiant | Ecole Polytechnique de Louvain (EPL) )
+- Anass GALLASS (Étudiant | Ecole Polytechnique de Louvain (EPL) )
 
 ---
 
