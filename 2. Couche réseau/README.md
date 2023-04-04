@@ -18,9 +18,7 @@ Résultats pour le fichier capture.pcap:
 | 10 | 31.13.66.35 | facebook.com |
 
 
-Pour faire tourner le code, il suffit d'intégrer les fichiers pcap dans le dossier et de lancer simplement 'script.sh' via la commande 
+Pour faire tourner le code, il suffit d'intégrer les fichiers pcap dans le dossier et d'exécuter depuis le terminal la commande suivante :  
 ```bash
 sh script.sh
 ```
-depuis le terminal.
-
