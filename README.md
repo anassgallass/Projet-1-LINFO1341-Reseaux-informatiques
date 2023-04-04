@@ -1,9 +1,7 @@
 # Projet-1-LINFO1341-Reseaux-informatiques
 ---
 
-- **Cours** : LINFO1341-Reseaux-informatiques.
-- **Professeur** : Olivier BONAVENT8RE.
-- **Année** : Q2 2022-2023
+Ce répertoire contient les codes utilisés pour réaliser un projet d'analyse d'une application réseau incluant des fonctionnalités de conversation et de visioconférence, en utilisant WhatsApp comme étude de cas. Ce projet a été réalisé dans le cadre du cours LINFO1341-Reseaux-informatiques, encadré par le Professeur Olivier BONAVENT8RE, au Q2 2022-2023.
 
 ---
 
@@ -24,6 +22,9 @@ Le rapport est divisé en 5 parties :
 4. Chiffrement et sécurité; 
 5. Application.
 
-Pour chacune de ces parties, un dossier est crée contenant à chaque fois les scripts utilsés pour la rédaction du rapport d’analyse.
+Pour chacune de ces parties, un dossier contenant les scripts utilisés pour la rédaction du rapport d’analyse a été créé.
 
-Pour utiliser ces scripts, on a exporté des fichiers .pcap capturé sur Wireshark lors de l'utilisation de Whatsapp sur ordinateur.
+Les scripts ont été créés en exportant des fichiers .pcap capturés sur Wireshark lors de l'utilisation de WhatsApp sur ordinateur.
+
+Pour utiliser ces scripts, téléchargez le dossier correspondant à la partie d'intérêt et exécutez-les.
+
