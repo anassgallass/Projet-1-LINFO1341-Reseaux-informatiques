@@ -1,9 +1,9 @@
 # Projet-1-LINFO1341-Reseaux-informatiques
 ---
 
-- Cours : LINFO1341-Reseaux-informatiques.
-- Professeur : Olivier Bonaventure.
-- Année : Q2 2022-2023
+- **Cours** : LINFO1341-Reseaux-informatiques.
+- **Professeur** : Olivier BONAVENT8RE.
+- **Année** : Q2 2022-2023
 
 ---
 
